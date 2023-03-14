@@ -1,0 +1,4 @@
+git clean
+
+Removes untracked files from the working directory. 
+This is the logical counterpart to git reset, which typically only operates on tracked files.
