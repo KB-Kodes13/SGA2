@@ -2,3 +2,9 @@ git clean
 
 Removes untracked files from the working directory. 
 This is the logical counterpart to git reset, which typically only operates on tracked files.
+
+git clone 
+
+This command creates a copy of the latest version of a repository on your computer in the directory you are currently in. 
+The original repository can be local or remote such as a GitHub repository. 
+GitHub offers a few different ways to clone a repository; a simple way is by HTTP.
